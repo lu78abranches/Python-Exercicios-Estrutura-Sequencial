@@ -1,3 +1,3 @@
 numero = int(input("Digite um número: "))
 
-print(numero)
+print('O número informado foi: ', numero)
